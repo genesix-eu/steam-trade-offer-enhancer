@@ -8,6 +8,7 @@
 // @author      HusKy
 // ==/UserScript==
 
+///psss
 function getUrlParam(paramName) {
     var params = window.location.search.split(/\?|\&/);
     for(i = 0; i < params.length; i++) {
